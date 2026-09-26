@@ -54,7 +54,9 @@ Get involved:
 
 SECTION 01: THE LOCAL IMPACT TRACK
 
-The magnifying glass is the point of this section: before you write code, go find the real problem and the real person who has it.
+This is the Local Impact track: what could you build in a weekend to make Ann Arbor better? Before you write code, go find the real problem and the real person who has it.
+
+Led by Barrett Solutions LLC, in collaboration with Compass Detroit and Luigi Solutions, sponsored by Baz, IBM, and Google.
 
 ## Slide 5
 

@@ -1,5 +1,9 @@
 # Local Impact Track
 
+<p align="center">
+  <img src="../assets/local-impact-track.jpg" alt="JacHacks A2Tech Hackathon Local Impact track: What could you build in a weekend to make Ann Arbor better? September 26–27, 2026, University of Michigan. Led by Barrett Solutions LLC, in collaboration with Compass Detroit and Luigi Solutions, sponsored by Baz, IBM, and Google." width="600">
+</p>
+
 **Build something that makes life measurably better for people in Ann Arbor and Washtenaw County.**
 
 a2Tech360 spends ten days celebrating what this region invents. This is the part where we invent something.
