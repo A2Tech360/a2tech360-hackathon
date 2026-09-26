@@ -93,7 +93,6 @@ Pick all tracks that apply when you submit.
 - **Agentic AI:** 1st and 2nd place
 - **Dev Tools & Full-Stack:** 1st and 2nd place
 - **Local Impact Grand Prize:** best mix of local relevance, technical execution, and a plausible path to existing after the weekend ([details](tracks/local-impact.md))
-
 - **Community Favorite:** every participant votes
 - **Jac awards:** Best JacHammer, Best JacLang, Best Mobile through Jac
 - **Sponsor awards:** Best of IBM, Best of Google, Best of ElevenLabs, Best of Backboard.io
