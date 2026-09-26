@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/jachacks-a2tech-banner.png" alt="JacHacks A2Tech Hackathon, September 26–27, 2026, University of Michigan" width="100%">
+  <img src="assets/local-impact-track.jpg" alt="JacHacks A2Tech Hackathon, Local Impact: What could you build in a weekend to make Ann Arbor better? September 26–27, 2026, University of Michigan" width="560">
 </p>
 
 # A2Tech360 Hackathon Starter Kit · JacHacks A2Tech
@@ -93,8 +93,6 @@ Pick all tracks that apply when you submit.
 - **Agentic AI:** 1st and 2nd place
 - **Dev Tools & Full-Stack:** 1st and 2nd place
 - **Local Impact Grand Prize:** best mix of local relevance, technical execution, and a plausible path to existing after the weekend ([details](tracks/local-impact.md))
-
-<p align="center"><a href="tracks/local-impact.md"><img src="assets/local-impact-track.jpg" alt="Local Impact track: What could you build in a weekend to make Ann Arbor better?" width="420"></a></p>
 
 - **Community Favorite:** every participant votes
 - **Jac awards:** Best JacHammer, Best JacLang, Best Mobile through Jac
